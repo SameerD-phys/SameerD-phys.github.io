@@ -160,6 +160,31 @@ header {
     transition: 0.2s;
 }
 
+/* =========================
+   Research areas
+   ========================= */
+
+.research-area {
+    margin-bottom: 80px;
+}
+
+.research-area-title {
+    font-size: 1.8rem;
+    margin-bottom: 8px;
+}
+
+.research-area-intro {
+    max-width: 800px;
+    margin-top: 0;
+    margin-bottom: 30px;
+
+    color: #555;
+    font-size: 1.05rem;
+}
+
+.research-card p {
+    margin-bottom: 0;
+}
 
 /* =========================
    Publications
